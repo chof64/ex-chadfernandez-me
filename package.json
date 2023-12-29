@@ -1,6 +1,9 @@
 {
   "name": "ex-chadfernandez-me",
   "version": "0.1.1",
+  "description": "EXPERIMENT! All things experimental.",
+  "author": "Chad Fernandez <contact@chadfernandez.me> (https://chadfernandez.me)",
+  "license": "MIT",
   "private": true,
   "type": "module",
   "scripts": {
