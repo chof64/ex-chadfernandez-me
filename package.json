@@ -12,7 +12,7 @@
     "lint": "next lint",
     "start": "next start",
     "release": "release-it",
-    "prerelease": "release-it --preRelease=beta --preReleaseId=beta --github.preRelease=true"
+    "betarelease": "release-it --preRelease=beta --preReleaseId=beta --github.preRelease=true"
   },
   "dependencies": {
     "@next-auth/prisma-adapter": "^1.0.7",
