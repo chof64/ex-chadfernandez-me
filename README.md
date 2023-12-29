@@ -1,28 +1,30 @@
-# Create T3 App
+# chof64/ex-chadfernandez-me
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+EXPERIMENT! All things experimental.
 
-## What's next? How do I make an app with this?
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/chof64/ex-chadfernandez-me?label=version)](#version)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+This repository contains lots of experimental stuff. It's a playground for me
+to try out new things, learn new technologies, and generally have fun. It's
+constantly changing, and I don't recommend using it for anything other than
+inspiration.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+## License
 
-## Learn More
+**chof64/ex-chadfernandez-me** is licensed under the [MIT License](LICENSE).
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+## Disclaimer
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+This project is provided "as-is" and without any warranty. The user assumes
+all risk and responsibility for using this software. The contributors to this
+project make no representations or warranties of any kind concerning the
+safety, suitability, or fitness for a particular purpose of this software. Use
+it at your own risk.
 
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+In no event shall the contributors to this project be liable for any damages,
+including but not limited to direct, indirect, special, incidental, or
+consequential damages arising out of the use or inability to use the software
+or any information provided with the software.
