@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Footer() {
   return (
-    <footer className="">
+    <footer>
       <div className="container py-8">
         <div>
           <p className="text-sm text-neutral-400">

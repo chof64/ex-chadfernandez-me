@@ -12,9 +12,9 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "EXPERIMENTAL - CHOF64",
+  title: "chof64/ex",
   description: "EXPERIMENTAL! Everything is experimental, things change.",
-  icons: [{ rel: "icon", url: "/favicon.ico" }],
+  icons: [{ rel: "icon", url: "/icons/ex-icon.png" }],
 };
 
 export default function RootLayout({
@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`font-sans ${inter.variable}`}>
         <TRPCReactProvider cookies={cookies().toString()}>
-          <div className="h-screen">
+          <div className="min-h-screen">
             <Header />
             {children}
           </div>
